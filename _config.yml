@@ -5,8 +5,8 @@ google_analytics:
 
 title: "LKY"
 description: "My personal site."
-url: "/trophy-jekyll"
-baseurl: ""
+url: "https://koliac.github.io"
+baseurl: "/trophy-jekyll"
 twitter_username:
 default_img:
 
