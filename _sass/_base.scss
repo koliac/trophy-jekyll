@@ -158,3 +158,17 @@ ol, ul {
   background-color: $color-alpha;
   text-shadow: none;
 }
+
+
+/**
+* Stage style
+*/
+
+#stage {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

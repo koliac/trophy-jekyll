@@ -3,7 +3,7 @@ email:
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-title: "LKY"
+title: "Longkun Yang"
 description: "My personal site."
 url: "https://koliac.github.io"
 baseurl: "/trophy-jekyll"
@@ -11,11 +11,11 @@ twitter_username:
 default_img:
 
 # Profile settings
-name:
-profile_img:
-profile:
+name: "Longkun Yang"
+profile_img: "/trophy-jekyll/assets/images/profile_picture.jpg"
+profile: "Blah blah blah"
 social:
-  github:
+  github: "https://github.com/koliac"
 
 # Build settings
 markdown: kramdown
